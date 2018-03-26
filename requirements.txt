@@ -1,0 +1,4 @@
+tweepy==3.6.0
+matplotlib==2.1.0
+numpy==1.13.3
+vaderSentiment==2.5
