@@ -5,6 +5,8 @@
 
 
 #Depenencies, initialize api and analyzer
+import matplotlib
+matplotlib.use('Agg')
 import tweepy
 import json
 import numpy as np
