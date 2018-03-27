@@ -146,7 +146,7 @@ def get_latest_requests(recent_id, max_requests=10):
 
 #Here we go!
 reqs=get_latest_requests("",max_requests=20)
-stale_targets = ["plotbot5","khmccurdy","uwebollraw","muffiniffum"]
+stale_targets = ["plotbot5","khmccurdy","uwebollraw","muffiniffum","cnn","cloud_chaoszero"]
 
 while True:
     for t in reqs:
