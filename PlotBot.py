@@ -176,6 +176,6 @@ while True:
         stale_targets.append(target_user)
 
     print("Done for now, see you in 5 minutes.")
-    break
+    #break
     time.sleep(300)
     reqs=get_latest_requests(recent_id)
