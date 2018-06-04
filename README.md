@@ -1,4 +1,8 @@
+# PlotBot Twitter bot
 
+This app deploys a Twitter bot that performs Sentiment Analysis on user-requested Twitter accounts, generating and tweeting out a graph of the account's last 500 tweets using Vader, Matplotlib, and Tweepy. 
+
+App is currently turned off, may be activated for demonstration purposes on request.
 
 ```python
 #Depenencies, initialize api and analyzer
